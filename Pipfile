@@ -7,9 +7,6 @@ name = "pypi"
 django = "==3.1.7"
 python-dotenv = "==0.16.0"
 django-sass = "==1.0.1"
-libsass = "*"
-django-compressor = "*"
-django-sass-processor = "*"
 
 [dev-packages]
 
