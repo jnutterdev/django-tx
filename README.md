@@ -1,8 +1,6 @@
-# Starter Django project 3.1.7
+# Django transactional
 
-This is a simple starter project that I created that is setup with one template view, sass, and some partial barebones. 
-
-It is not setup with a database or models, so that would need to be setup afterward.
+A simple Django app for testing transactional email sending. Django template comes pre-configured for Sass. 
 
 ### To generate sass files 
 
